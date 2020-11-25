@@ -24,7 +24,7 @@ A system to manage banking affairs, implemented in C.
    1) Add new accounts including relevant information  
    2) View all the register information and make deposits to customers' account  
    3) Account information including the name, the address, the telephone number and the PIN can be edited  
-   4) Accounts can be deleted</div><div><br></div>Analysis<br>
+   4) Accounts can be deleted
    
 ## Analysis
 ### Input
