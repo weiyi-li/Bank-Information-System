@@ -37,12 +37,12 @@ A system to manage banking affairs, implemented in C.
 7. Manager account usernames with 4-16 characters  
 8. Manager passwords with 6-12 characters  
 9. Bank clerks' account usernames with 4-16 characters  
-10.Bank clerks' passwords with 6-12 characters  
-11.Customers' addresses with maximum 50 characters  
-12.Customers' telephone numbers with maximum 15 digits  
-13.A number from 1 to 5 for customers to choose on the customer menu  
-14.An integer number representing the number of the withdraw  
-15.An integer number representing the number of the register of a deposit  
+10. Bank clerks' passwords with 6-12 characters  
+11. Customers' addresses with maximum 50 characters  
+12. Customers' telephone numbers with maximum 15 digits  
+13. A number from 1 to 5 for customers to choose on the customer menu  
+14. An integer number representing the number of the withdraw  
+15. An integer number representing the number of the register of a deposit  
 
 ### Output
 1. The main menu of the bank information system  
@@ -54,12 +54,12 @@ A system to manage banking affairs, implemented in C.
 7. Instructions about the maximum withdraw number  
 8. Warnings if the database cannot be accessed  
 9. Prompt messages asking users whether to continue their operation.  
-10.Warnings if the relevant information is not existed  
-11.The account number of the login customer  
-12.Prompt messages asking bank clerks whether to view all the registers or not  
-13.Relevant information of registers like account number  
-14.Prompt messages asking users to input their passwords again for check  
-15.Customers' information if required  
+10. Warnings if the relevant information is not existed  
+11. The account number of the login customer  
+12. Prompt messages asking bank clerks whether to view all the registers or not  
+13. Relevant information of registers like account number  
+14. Prompt messages asking users to input their passwords again for check  
+15. Customers' information if required  
 ## Design
 To start with, several header files are included.  
 _#include stdio.h_ is included for the standard input and output.  
